@@ -3,3 +3,5 @@ Teste
 Outra linha adicionada
 
 VIVI
+
+Linha adicionada pelo GitHub
